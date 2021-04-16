@@ -3,7 +3,7 @@
 "productName": "Solar_System_Pro_Port",
 "productVersion": "0.1",
 "dataUrl": "SS_build.data.unityweb",
-"wasmCodeUrl": "SS_build.wasm",
+"wasmCodeUrl": "SS_build.wasm.code.unityweb",
 "wasmFrameworkUrl": "SS_build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
