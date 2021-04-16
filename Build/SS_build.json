@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Solar_System_Pro_Port",
+"productVersion": "0.1",
+"dataUrl": "SS_build.data.unityweb",
+"wasmCodeUrl": "SS_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "SS_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
